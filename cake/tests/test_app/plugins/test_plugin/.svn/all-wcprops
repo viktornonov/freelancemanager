@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/cake/tests/test_app/plugins/test_plugin
+END
+test_plugin_app_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/cake/tests/test_app/plugins/test_plugin/test_plugin_app_model.php
+END
+test_plugin_app_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/cake/tests/test_app/plugins/test_plugin/test_plugin_app_controller.php
+END

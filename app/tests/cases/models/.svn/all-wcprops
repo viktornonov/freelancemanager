@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/app/tests/cases/models
+END
+template.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/app/tests/cases/models/template.test.php
+END
+milestone.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/app/tests/cases/models/milestone.test.php
+END
+task.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/app/tests/cases/models/task.test.php
+END
+projects_file.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/app/tests/cases/models/projects_file.test.php
+END
+empty
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/app/tests/cases/models/empty
+END
+template_milestone.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/app/tests/cases/models/template_milestone.test.php
+END

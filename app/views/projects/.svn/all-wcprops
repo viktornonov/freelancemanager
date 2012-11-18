@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/app/views/projects
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/app/views/projects/view.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/app/views/projects/edit.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/app/views/projects/index.ctp
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/app/views/projects/add.ctp
+END

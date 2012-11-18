@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/cake/tests/test_app/plugins/test_plugin/views/tests
+END
+scaffold.edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/cake/tests/test_app/plugins/test_plugin/views/tests/scaffold.edit.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/cake/tests/test_app/plugins/test_plugin/views/tests/index.ctp
+END

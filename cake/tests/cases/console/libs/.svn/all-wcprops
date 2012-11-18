@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/cake/tests/cases/console/libs
+END
+acl.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/cake/tests/cases/console/libs/acl.test.php
+END
+schema.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/cake/tests/cases/console/libs/schema.test.php
+END
+bake.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/cake/tests/cases/console/libs/bake.test.php
+END
+shell.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/cake/tests/cases/console/libs/shell.test.php
+END
+api.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/cake/tests/cases/console/libs/api.test.php
+END

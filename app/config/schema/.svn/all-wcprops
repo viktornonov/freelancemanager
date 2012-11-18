@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/app/config/schema
+END
+i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/app/config/schema/i18n.php
+END
+db_acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/app/config/schema/db_acl.php
+END
+sessions.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/tues/projectmanage/svn/!svn/ver/4/projectmanager/app/config/schema/sessions.php
+END

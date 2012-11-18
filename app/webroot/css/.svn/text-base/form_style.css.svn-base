@@ -1,0 +1,59 @@
+@CHARSET "UTF-8";
+
+fieldset legend {
+	background: white;
+	color: #46a4ca;
+	text-decoration: underline;
+	font-size: 160%;
+	font-weight: bold;
+	text-align: center;
+}
+
+form div {
+	clear: both;
+	margin-bottom: 1em;
+	padding: .2em;
+	vertical-align: text-top;
+}
+
+form select {
+	width: 100%;
+}
+
+form div input, textarea {
+	border: 1px solid #545454;
+	font-size: 16px;
+	line-heiht: 30px;
+	width: 100%;
+}
+
+.input input {
+	height: 25px;	
+}
+
+.clonedInput, .clonedInputPhone, .clonedInputFile {
+	padding: .0em;
+	margin: 0em;
+}
+
+.dialog-confirms {
+	display: none;
+}
+
+.dialog-confirms p {
+	font-size: 12px;
+}
+
+label {
+	width: 100%;
+	text-align: center;
+}
+
+label.error {
+	font-style: italic;
+	color: red;
+	background-image: url(../img/unchecked.gif);
+	background-position: top left;
+	background-repeat: no-repeat;
+	padding-left: 20px;	
+}
