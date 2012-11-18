@@ -1,129 +1,0 @@
-10
-
-dir
-4
-https://pl3.projectlocker.com/tues/projectmanage/svn/projectmanager/app
-https://pl3.projectlocker.com/tues/projectmanage/svn
-
-
-
-2011-10-09T09:39:10.546854Z
-4
-gunit50@abv.bg
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-61a28632-21cb-4a56-806f-9fc24214f984
-
-locale
-dir
-
-tmp
-dir
-
-vendors
-dir
-
-plugins
-dir
-
-webroot
-dir
-
-tests
-dir
-
-models
-dir
-
-config
-dir
-
-controllers
-dir
-
-libs
-dir
-
-.htaccess
-file
-
-
-
-
-2011-03-20T11:10:00.000000Z
-5271a9e66c99c84c092d7fd81cebcd57
-2011-10-09T09:39:10.546854Z
-4
-gunit50@abv.bg
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-141
-
-views
-dir
-
-index.php
-file
-
-
-
-
-2011-03-20T11:10:00.000000Z
-873eb678445c880f95a14a698f5ff89e
-2011-10-09T09:39:10.546854Z
-4
-gunit50@abv.bg
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-685
-

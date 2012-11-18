@@ -1,58 +1,0 @@
-10
-
-dir
-4
-https://pl3.projectlocker.com/tues/projectmanage/svn/projectmanager/cake/tests/test_app
-https://pl3.projectlocker.com/tues/projectmanage/svn
-
-
-
-2011-10-09T09:39:10.546854Z
-4
-gunit50@abv.bg
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-61a28632-21cb-4a56-806f-9fc24214f984
-
-locale
-dir
-
-tmp
-dir
-
-vendors
-dir
-
-plugins
-dir
-
-webroot
-dir
-
-models
-dir
-
-config
-dir
-
-controllers
-dir
-
-libs
-dir
-
-views
-dir
-
